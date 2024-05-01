@@ -99,8 +99,10 @@ main()
 int a,b;
 }
 ```
+
 # OUTPUT
 ![image](https://github.com/SanjithaBolisetti/Ex-4---GENERATION-OF-LEXICAL-TOKENS-LEX-FLEX-TOOL/assets/119393633/dd938e27-f4bb-4163-b965-9b82fef42988)
+
 
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
